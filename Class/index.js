@@ -1,1 +1,1 @@
-console.log("Hello");
+let numbers = [32, 32, 65, 3, 7, 46, 76, 4];
